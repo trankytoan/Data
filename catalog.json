@@ -1,0 +1,57 @@
+{
+  "version": 1,
+  "groups": [
+    {
+      "id": "DinhMuc",
+      "name": "\u0110\u1ECBnh M\u1EE9c",
+      "items": [
+        {
+          "id": "DinhMuc38",
+          "name": "\u0110\u1ECBnh M\u1EE9c 18",
+          "version": "1.0",
+          "Path": "DinhMuc\\DinhMuc38.accdb",
+          "fileName": "DinhMuc38.accdb",
+          "size": 0,
+          "author": "Admin",
+          "downloadCount": 0,
+          "createdDate": "2026-07-15 15:28:42"
+        },
+        {
+          "id": "DinhMuc12",
+          "name": "\u0110\u1ECBnh M\u1EE9c 12",
+          "version": "1.0",
+          "Path": "DinhMuc\\DinhMuc12.accdb",
+          "fileName": "DinhMuc12.accdb",
+          "size": 0,
+          "author": "Admin",
+          "downloadCount": 0,
+          "createdDate": "2026-07-15 15:28:42"
+        }
+      ]
+    },
+    {
+      "id": "GiaVatLieu",
+      "name": "Gi\u00E1 V\u1EADt Li\u1EC7u",
+      "items": [
+      ]
+    },
+    {
+      "id": "DonGia",
+      "name": "\u0110\u01A1n Gi\u00E1",
+      "items": [
+      ]
+    },
+    {
+      "id": "GiaNhanCong",
+      "name": "Gi\u00E1 Nh\u00E2n c\u00F4ng",
+      "items": [
+      ]
+    },
+    {
+      "id": "GiaMay",
+      "name": "Gi\u00E1 M\u00E1y",
+      "items": [
+      ]
+    }
+  ]
+}
