@@ -6,26 +6,37 @@
       "name": "\u0110\u1ECBnh M\u1EE9c",
       "items": [
         {
-          "id": "DinhMuc38",
-          "name": "\u0110\u1ECBnh M\u1EE9c 38",
+          "id": "DonGiaMacDinh",
+          "name": "DonGiaMacDinh",
           "version": "1.0",
-          "Path": "DinhMuc/DinhMuc38.accdb",
-          "fileName": "DinhMuc38.accdb",
+          "Path": "DinhMuc/DonGiaMacDinh.accdb",
+          "fileName": "DonGiaMacDinh.accdb",
           "size": 0,
           "author": "Admin",
           "downloadCount": 0,
-          "createdDate": "2026-07-15 20:04:05"
+          "createdDate": "2026-07-16 19:59:38"
         },
         {
           "id": "DinhMuc12",
-          "name": "\u0110\u1ECBnh M\u1EE9c 12",
+          "name": "DinhMuc12",
           "version": "1.0",
           "Path": "DinhMuc/DinhMuc12.accdb",
           "fileName": "DinhMuc12.accdb",
           "size": 0,
           "author": "Admin",
           "downloadCount": 0,
-          "createdDate": "2026-07-15 20:04:05"
+          "createdDate": "2026-07-16 19:59:38"
+        },
+        {
+          "id": "DinhMuc38",
+          "name": "DinhMuc38",
+          "version": "1.0",
+          "Path": "DinhMuc/DinhMuc38.accdb",
+          "fileName": "DinhMuc38.accdb",
+          "size": 0,
+          "author": "Admin",
+          "downloadCount": 0,
+          "createdDate": "2026-07-16 19:59:38"
         }
       ]
     },
@@ -39,22 +50,6 @@
           "version": "1,0",
           "Path": "GiaVatLieu/TpHCM_Quy3_2025.accdb",
           "fileName": "TpHCM_Quy3_2025.accdb",
-          "size": 0,
-          "author": "Admin",
-          "downloadCount": 0
-        }
-      ]
-    },
-    {
-      "id": "DonGia",
-      "name": "\u0110\u01A1n Gi\u00E1",
-      "items": [
-        {
-          "id": "DonGiaMacDinh",
-          "name": "\u0110\u01A1n Gi\u00E1 M\u1EB7c \u0110\u1ECBnh",
-          "version": "1,0",
-          "Path": "DonGia/DonGiaMacDinh.accdb",
-          "fileName": "DonGiaMacDinh.accdb",
           "size": 0,
           "author": "Admin",
           "downloadCount": 0
