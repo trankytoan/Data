@@ -8,38 +8,38 @@
         {
           "id": "DinhMuc12",
           "name": "DinhMuc12",
-          "version": "1,1",
+          "version": "1.2",
           "Path": "DinhMuc/DinhMuc12.accdb",
           "fileName": "DinhMuc12.accdb",
           "size": 22937600,
-          "author": "Admin",
+          "author": "",
           "downloadCount": 0,
           "createdDate": "2026-07-05 19:27:29",
-          "updatedDate": "2026-07-12 14:01:37"
+          "updatedDate": "2026-07-18 16:51:06"
         },
         {
           "id": "DinhMuc38",
           "name": "DinhMuc38",
-          "version": "1,1",
+          "version": "1.2",
           "Path": "DinhMuc/DinhMuc38.accdb",
           "fileName": "DinhMuc38.accdb",
           "size": 25296896,
-          "author": "Admin",
+          "author": "",
           "downloadCount": 0,
           "createdDate": "2026-07-12 10:11:04",
-          "updatedDate": "2026-07-12 14:45:43"
+          "updatedDate": "2026-07-18 18:15:21"
         },
         {
           "id": "DonGiaMacDinh",
           "name": "DonGiaMacDinh",
-          "version": "1,1",
+          "version": "1.2",
           "Path": "DinhMuc/DonGiaMacDinh.accdb",
           "fileName": "DonGiaMacDinh.accdb",
           "size": 22937600,
-          "author": "Admin",
+          "author": "",
           "downloadCount": 0,
           "createdDate": "2026-07-05 19:25:47",
-          "updatedDate": "2026-07-06 08:57:54"
+          "updatedDate": "2026-07-18 18:14:50"
         }
       ]
     },
@@ -50,11 +50,11 @@
         {
           "id": "TpHcm_GiaMayThiCong2023",
           "name": "TpHcm_GiaMayThiCong2023",
-          "version": "1,1",
+          "version": "1.2",
           "Path": "GiaMay/TpHcm_GiaMayThiCong2023.accdb",
           "fileName": "TpHcm_GiaMayThiCong2023.accdb",
           "size": 569344,
-          "author": "Admin",
+          "author": "",
           "downloadCount": 0,
           "createdDate": "2025-12-04 12:34:34",
           "updatedDate": "2026-07-04 20:15:27"
@@ -68,11 +68,11 @@
         {
           "id": "TpHCM_Quy3_2025",
           "name": "TpHCM_Quy3_2025",
-          "version": "1,1",
+          "version": "1.2",
           "Path": "GiaVatLieu/TpHCM_Quy3_2025.accdb",
           "fileName": "TpHCM_Quy3_2025.accdb",
           "size": 1765376,
-          "author": "Admin",
+          "author": "",
           "downloadCount": 0,
           "createdDate": "2026-07-05 19:29:47",
           "updatedDate": "2026-07-06 08:57:19"
