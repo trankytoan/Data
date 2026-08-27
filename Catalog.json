@@ -8,7 +8,7 @@
         {
           "id": "DinhMuc12",
           "name": "DinhMuc12",
-          "version": "1.2",
+          "version": "",
           "Path": "DinhMuc/DinhMuc12.accdb",
           "fileName": "DinhMuc12.accdb",
           "size": 22937600,
@@ -20,26 +20,26 @@
         {
           "id": "DinhMuc38",
           "name": "DinhMuc38",
-          "version": "1.2",
+          "version": "",
           "Path": "DinhMuc/DinhMuc38.accdb",
           "fileName": "DinhMuc38.accdb",
           "size": 25296896,
           "author": "",
           "downloadCount": 0,
           "createdDate": "2026-07-12 10:11:04",
-          "updatedDate": "2026-07-18 18:15:21"
+          "updatedDate": "2026-07-18 22:44:09"
         },
         {
           "id": "DonGiaMacDinh",
           "name": "DonGiaMacDinh",
-          "version": "1.2",
+          "version": "",
           "Path": "DinhMuc/DonGiaMacDinh.accdb",
           "fileName": "DonGiaMacDinh.accdb",
           "size": 22937600,
           "author": "",
           "downloadCount": 0,
           "createdDate": "2026-07-05 19:25:47",
-          "updatedDate": "2026-07-18 18:14:50"
+          "updatedDate": "2026-08-27 19:18:06"
         }
       ]
     },
@@ -48,11 +48,11 @@
       "name": "GiaMay",
       "items": [
         {
-          "id": "TpHcm_GiaMayThiCong2023",
-          "name": "TpHcm_GiaMayThiCong2023",
-          "version": "1.2",
-          "Path": "GiaMay/TpHcm_GiaMayThiCong2023.accdb",
-          "fileName": "TpHcm_GiaMayThiCong2023.accdb",
+          "id": "GiaMayMacDinh",
+          "name": "GiaMayMacDinh",
+          "version": "",
+          "Path": "GiaMay/GiaMayMacDinh.accdb",
+          "fileName": "GiaMayMacDinh.accdb",
           "size": 569344,
           "author": "",
           "downloadCount": 0,
@@ -62,20 +62,38 @@
       ]
     },
     {
+      "id": "GiaNhanCong",
+      "name": "GiaNhanCong",
+      "items": [
+        {
+          "id": "GiaNhanCongMacDinh",
+          "name": "GiaNhanCongMacDinh",
+          "version": "",
+          "Path": "GiaNhanCong/GiaNhanCongMacDinh.accdb",
+          "fileName": "GiaNhanCongMacDinh.accdb",
+          "size": 454656,
+          "author": "",
+          "downloadCount": 0,
+          "createdDate": "2026-08-27 19:33:38",
+          "updatedDate": "2026-07-24 20:24:10"
+        }
+      ]
+    },
+    {
       "id": "GiaVatLieu",
       "name": "GiaVatLieu",
       "items": [
         {
-          "id": "TpHCM_Quy3_2025",
-          "name": "TpHCM_Quy3_2025",
-          "version": "1.2",
-          "Path": "GiaVatLieu/TpHCM_Quy3_2025.accdb",
-          "fileName": "TpHCM_Quy3_2025.accdb",
-          "size": 1765376,
+          "id": "GiaVatLieuMacDinh",
+          "name": "GiaVatLieuMacDinh",
+          "version": "",
+          "Path": "GiaVatLieu/GiaVatLieuMacDinh.accdb",
+          "fileName": "GiaVatLieuMacDinh.accdb",
+          "size": 1835008,
           "author": "",
           "downloadCount": 0,
           "createdDate": "2026-07-05 19:29:47",
-          "updatedDate": "2026-07-06 08:57:19"
+          "updatedDate": "2026-08-27 19:30:57"
         }
       ]
     }
