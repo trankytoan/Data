@@ -8,7 +8,7 @@
         {
           "id": "DinhMuc12",
           "name": "DinhMuc12",
-          "version": "",
+          "version": "1.0",
           "Path": "DinhMuc/DinhMuc12.accdb",
           "fileName": "DinhMuc12.accdb",
           "size": 22937600,
@@ -20,7 +20,7 @@
         {
           "id": "DinhMuc38",
           "name": "DinhMuc38",
-          "version": "",
+          "version": "1.0",
           "Path": "DinhMuc/DinhMuc38.accdb",
           "fileName": "DinhMuc38.accdb",
           "size": 25296896,
@@ -32,7 +32,7 @@
         {
           "id": "DonGiaMacDinh",
           "name": "DonGiaMacDinh",
-          "version": "",
+          "version": "1.0",
           "Path": "DinhMuc/DonGiaMacDinh.accdb",
           "fileName": "DonGiaMacDinh.accdb",
           "size": 22937600,
@@ -50,7 +50,7 @@
         {
           "id": "GiaMayMacDinh",
           "name": "GiaMayMacDinh",
-          "version": "",
+          "version": "1.0",
           "Path": "GiaMay/GiaMayMacDinh.accdb",
           "fileName": "GiaMayMacDinh.accdb",
           "size": 569344,
@@ -68,7 +68,7 @@
         {
           "id": "GiaNhanCongMacDinh",
           "name": "GiaNhanCongMacDinh",
-          "version": "",
+          "version": "1.0",
           "Path": "GiaNhanCong/GiaNhanCongMacDinh.accdb",
           "fileName": "GiaNhanCongMacDinh.accdb",
           "size": 454656,
@@ -86,14 +86,14 @@
         {
           "id": "GiaVatLieuMacDinh",
           "name": "GiaVatLieuMacDinh",
-          "version": "",
+          "version": "1.0",
           "Path": "GiaVatLieu/GiaVatLieuMacDinh.accdb",
           "fileName": "GiaVatLieuMacDinh.accdb",
-          "size": 1835008,
+          "size": 1867776,
           "author": "",
           "downloadCount": 0,
           "createdDate": "2026-07-05 19:29:47",
-          "updatedDate": "2026-08-27 19:30:57"
+          "updatedDate": "2026-08-27 20:41:38"
         }
       ]
     }
