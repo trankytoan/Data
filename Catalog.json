@@ -2,6 +2,42 @@
   "version": 0,
   "groups": [
     {
+      "id": "ChiPhiTuVan&QLDA",
+      "name": "ChiPhiTuVan&QLDA",
+      "items": [
+        {
+          "id": "ThongTu12",
+          "name": "ThongTu12",
+          "version": "1.0",
+          "Path": "ChiPhiTuVan&QLDA/ThongTu12.accdb",
+          "fileName": "ThongTu12.accdb",
+          "size": 1171456,
+          "author": "Admin",
+          "downloadCount": 0,
+          "createdDate": "2026-08-28 07:55:02",
+          "updatedDate": "2026-08-28 07:43:57"
+        }
+      ]
+    },
+    {
+      "id": "ChiPhiXayDung",
+      "name": "ChiPhiXayDung",
+      "items": [
+        {
+          "id": "ThongTu11",
+          "name": "ThongTu11",
+          "version": "1.0",
+          "Path": "ChiPhiXayDung/ThongTu11.accdb",
+          "fileName": "ThongTu11.accdb",
+          "size": 819200,
+          "author": "Admin",
+          "downloadCount": 0,
+          "createdDate": "2026-08-28 07:55:02",
+          "updatedDate": "2026-08-28 07:43:33"
+        }
+      ]
+    },
+    {
       "id": "DinhMuc",
       "name": "DinhMuc",
       "items": [
@@ -12,7 +48,7 @@
           "Path": "DinhMuc/DinhMuc12.accdb",
           "fileName": "DinhMuc12.accdb",
           "size": 22937600,
-          "author": "",
+          "author": "Admin",
           "downloadCount": 0,
           "createdDate": "2026-07-05 19:27:29",
           "updatedDate": "2026-07-18 16:51:06"
@@ -24,7 +60,7 @@
           "Path": "DinhMuc/DinhMuc38.accdb",
           "fileName": "DinhMuc38.accdb",
           "size": 25296896,
-          "author": "",
+          "author": "Admin",
           "downloadCount": 0,
           "createdDate": "2026-07-12 10:11:04",
           "updatedDate": "2026-07-18 22:44:09"
@@ -36,10 +72,10 @@
           "Path": "DinhMuc/DonGiaMacDinh.accdb",
           "fileName": "DonGiaMacDinh.accdb",
           "size": 22937600,
-          "author": "",
+          "author": "Admin",
           "downloadCount": 0,
           "createdDate": "2026-07-05 19:25:47",
-          "updatedDate": "2026-08-27 19:18:06"
+          "updatedDate": "2026-08-27 22:06:36"
         }
       ]
     },
@@ -53,11 +89,11 @@
           "version": "1.0",
           "Path": "GiaMay/GiaMayMacDinh.accdb",
           "fileName": "GiaMayMacDinh.accdb",
-          "size": 569344,
-          "author": "",
+          "size": 593920,
+          "author": "Admin",
           "downloadCount": 0,
           "createdDate": "2025-12-04 12:34:34",
-          "updatedDate": "2026-07-04 20:15:27"
+          "updatedDate": "2026-08-27 22:49:04"
         }
       ]
     },
@@ -72,10 +108,10 @@
           "Path": "GiaNhanCong/GiaNhanCongMacDinh.accdb",
           "fileName": "GiaNhanCongMacDinh.accdb",
           "size": 454656,
-          "author": "",
+          "author": "Admin",
           "downloadCount": 0,
           "createdDate": "2026-08-27 19:33:38",
-          "updatedDate": "2026-07-24 20:24:10"
+          "updatedDate": "2026-08-27 22:49:04"
         }
       ]
     },
@@ -90,10 +126,10 @@
           "Path": "GiaVatLieu/GiaVatLieuMacDinh.accdb",
           "fileName": "GiaVatLieuMacDinh.accdb",
           "size": 1867776,
-          "author": "",
+          "author": "Admin",
           "downloadCount": 0,
           "createdDate": "2026-07-05 19:29:47",
-          "updatedDate": "2026-08-27 20:41:38"
+          "updatedDate": "2026-08-27 22:05:47"
         }
       ]
     }
