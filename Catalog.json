@@ -6,21 +6,6 @@
       "name": "ChiPhiTuVan&QLDA",
       "items": [
         {
-          "id": "ThongTu12",
-          "name": "ThongTu12",
-          "version": "",
-          "description": "",
-          "province": "",
-          "tag": "",
-          "Path": "ChiPhiTuVan&QLDA/ThongTu12.accdb",
-          "fileName": "ThongTu12.accdb",
-          "size": 1724416,
-          "author": "",
-          "downloadCount": 0,
-          "createdDate": "2026-08-28 07:55:02",
-          "updatedDate": "2026-09-26 18:35:07"
-        },
-        {
           "id": "ThongTu38",
           "name": "ThongTu38",
           "version": "",
@@ -33,7 +18,7 @@
           "author": "",
           "downloadCount": 0,
           "createdDate": "2026-09-26 18:35:56",
-          "updatedDate": "2026-10-20 07:24:59"
+          "updatedDate": "2026-10-27 19:40:00"
         }
       ]
     },
@@ -41,21 +26,6 @@
       "id": "ChiPhiXayDung",
       "name": "ChiPhiXayDung",
       "items": [
-        {
-          "id": "ThongTu11",
-          "name": "ThongTu11",
-          "version": "",
-          "description": "",
-          "province": "",
-          "tag": "",
-          "Path": "ChiPhiXayDung/ThongTu11.accdb",
-          "fileName": "ThongTu11.accdb",
-          "size": 1093632,
-          "author": "",
-          "downloadCount": 0,
-          "createdDate": "2026-08-28 07:55:02",
-          "updatedDate": "2026-09-26 18:32:59"
-        },
         {
           "id": "ThongTu36",
           "name": "ThongTu36",
@@ -69,7 +39,7 @@
           "author": "",
           "downloadCount": 0,
           "createdDate": "2026-09-26 18:35:56",
-          "updatedDate": "2026-09-26 18:32:49"
+          "updatedDate": "2026-10-27 19:59:10"
         }
       ]
     },
@@ -111,7 +81,7 @@
           "author": "",
           "downloadCount": 0,
           "createdDate": "2026-10-01 18:56:22",
-          "updatedDate": "2026-10-12 11:52:06"
+          "updatedDate": "2026-10-29 08:23:43"
         },
         {
           "id": "GiaMayAnGiang673_QD_SXD_2026_V2_DacKhu&Dao",
@@ -126,7 +96,7 @@
           "author": "",
           "downloadCount": 0,
           "createdDate": "2026-10-02 06:21:07",
-          "updatedDate": "2026-10-02 07:27:54"
+          "updatedDate": "2026-10-29 08:26:53"
         },
         {
           "id": "GiaMayAnGiang673_QD_SXD_2026_V3",
@@ -141,7 +111,7 @@
           "author": "",
           "downloadCount": 0,
           "createdDate": "2026-10-02 07:28:06",
-          "updatedDate": "2026-10-02 07:29:31"
+          "updatedDate": "2026-10-29 08:27:00"
         },
         {
           "id": "GiaMayAnGiang673_QD_SXD_2026_V3_DacKhu&Dao",
@@ -156,7 +126,7 @@
           "author": "",
           "downloadCount": 0,
           "createdDate": "2026-10-02 07:30:12",
-          "updatedDate": "2026-10-02 07:31:32"
+          "updatedDate": "2026-10-29 08:27:17"
         },
         {
           "id": "GiaMayAnGiang673_QD_SXD_2026_V4",
@@ -171,7 +141,7 @@
           "author": "",
           "downloadCount": 0,
           "createdDate": "2026-10-02 07:31:40",
-          "updatedDate": "2026-10-02 07:46:11"
+          "updatedDate": "2026-10-29 08:27:24"
         },
         {
           "id": "GiaMayCaMau_738_QD-SXD_2026_V2",
@@ -182,11 +152,11 @@
           "tag": "",
           "Path": "GiaMay/GiaMayCaMau_738_QD-SXD_2026_V2.accdb",
           "fileName": "GiaMayCaMau_738_QD-SXD_2026_V2.accdb",
-          "size": 516096,
+          "size": 593920,
           "author": "",
           "downloadCount": 0,
           "createdDate": "2026-10-02 18:36:49",
-          "updatedDate": "2026-10-02 18:31:33"
+          "updatedDate": "2026-10-29 08:31:24"
         },
         {
           "id": "GiaMayCaMau_738_QD-SXD_2026_V3",
@@ -197,11 +167,11 @@
           "tag": "",
           "Path": "GiaMay/GiaMayCaMau_738_QD-SXD_2026_V3.accdb",
           "fileName": "GiaMayCaMau_738_QD-SXD_2026_V3.accdb",
-          "size": 516096,
+          "size": 589824,
           "author": "",
           "downloadCount": 0,
           "createdDate": "2026-10-02 18:36:49",
-          "updatedDate": "2026-10-02 18:33:50"
+          "updatedDate": "2026-10-29 08:32:42"
         },
         {
           "id": "GiaMayCaMau_738_QD-SXD_2026_V4",
@@ -212,11 +182,11 @@
           "tag": "",
           "Path": "GiaMay/GiaMayCaMau_738_QD-SXD_2026_V4.accdb",
           "fileName": "GiaMayCaMau_738_QD-SXD_2026_V4.accdb",
-          "size": 516096,
+          "size": 593920,
           "author": "",
           "downloadCount": 0,
           "createdDate": "2026-10-02 18:36:49",
-          "updatedDate": "2026-10-02 18:35:47"
+          "updatedDate": "2026-10-29 08:33:45"
         },
         {
           "id": "GiaMayCanTho_939_947_QD-SXD_2026_V2",
@@ -227,11 +197,11 @@
           "tag": "",
           "Path": "GiaMay/GiaMayCanTho_939_947_QD-SXD_2026_V2.accdb",
           "fileName": "GiaMayCanTho_939_947_QD-SXD_2026_V2.accdb",
-          "size": 516096,
+          "size": 589824,
           "author": "",
           "downloadCount": 0,
           "createdDate": "2026-10-02 18:56:25",
-          "updatedDate": "2026-10-02 18:50:38"
+          "updatedDate": "2026-10-29 08:34:44"
         },
         {
           "id": "GiaMayCanTho_939_947_QD-SXD_2026_V3",
@@ -242,11 +212,11 @@
           "tag": "",
           "Path": "GiaMay/GiaMayCanTho_939_947_QD-SXD_2026_V3.accdb",
           "fileName": "GiaMayCanTho_939_947_QD-SXD_2026_V3.accdb",
-          "size": 516096,
+          "size": 589824,
           "author": "",
           "downloadCount": 0,
           "createdDate": "2026-10-02 18:56:25",
-          "updatedDate": "2026-10-02 18:52:43"
+          "updatedDate": "2026-10-29 08:35:41"
         },
         {
           "id": "GiaMayCanTho_939_947_QD-SXD_2026_V4",
@@ -257,11 +227,11 @@
           "tag": "",
           "Path": "GiaMay/GiaMayCanTho_939_947_QD-SXD_2026_V4.accdb",
           "fileName": "GiaMayCanTho_939_947_QD-SXD_2026_V4.accdb",
-          "size": 516096,
+          "size": 589824,
           "author": "",
           "downloadCount": 0,
           "createdDate": "2026-10-02 18:56:25",
-          "updatedDate": "2026-10-02 18:55:02"
+          "updatedDate": "2026-10-29 08:36:32"
         },
         {
           "id": "GiaMayDongNai_145_QD-SXD_2026_V1",
@@ -272,11 +242,11 @@
           "tag": "",
           "Path": "GiaMay/GiaMayDongNai_145_QD-SXD_2026_V1.accdb",
           "fileName": "GiaMayDongNai_145_QD-SXD_2026_V1.accdb",
-          "size": 516096,
+          "size": 589824,
           "author": "",
           "downloadCount": 0,
           "createdDate": "2026-10-02 19:31:12",
-          "updatedDate": "2026-10-02 19:24:07"
+          "updatedDate": "2026-10-29 08:39:06"
         },
         {
           "id": "GiaMayDongNai_145_QD-SXD_2026_V2",
@@ -287,11 +257,11 @@
           "tag": "",
           "Path": "GiaMay/GiaMayDongNai_145_QD-SXD_2026_V2.accdb",
           "fileName": "GiaMayDongNai_145_QD-SXD_2026_V2.accdb",
-          "size": 516096,
+          "size": 589824,
           "author": "",
           "downloadCount": 0,
           "createdDate": "2026-10-02 19:31:12",
-          "updatedDate": "2026-10-02 19:26:13"
+          "updatedDate": "2026-10-29 08:40:27"
         },
         {
           "id": "GiaMayDongNai_145_QD-SXD_2026_V3",
@@ -302,11 +272,11 @@
           "tag": "",
           "Path": "GiaMay/GiaMayDongNai_145_QD-SXD_2026_V3.accdb",
           "fileName": "GiaMayDongNai_145_QD-SXD_2026_V3.accdb",
-          "size": 516096,
+          "size": 589824,
           "author": "",
           "downloadCount": 0,
           "createdDate": "2026-10-02 19:31:12",
-          "updatedDate": "2026-10-02 19:28:01"
+          "updatedDate": "2026-10-29 08:41:21"
         },
         {
           "id": "GiaMayDongNai_145_QD-SXD_2026_V4",
@@ -317,11 +287,11 @@
           "tag": "",
           "Path": "GiaMay/GiaMayDongNai_145_QD-SXD_2026_V4.accdb",
           "fileName": "GiaMayDongNai_145_QD-SXD_2026_V4.accdb",
-          "size": 516096,
+          "size": 589824,
           "author": "",
           "downloadCount": 0,
           "createdDate": "2026-10-02 19:31:12",
-          "updatedDate": "2026-10-02 19:30:53"
+          "updatedDate": "2026-10-29 08:42:26"
         },
         {
           "id": "GiaMayMacDinh",
@@ -347,11 +317,11 @@
           "tag": "",
           "Path": "GiaMay/GiaMayPhuTho_677_756_QD-SXD_2026_V2.accdb",
           "fileName": "GiaMayPhuTho_677_756_QD-SXD_2026_V2.accdb",
-          "size": 516096,
+          "size": 618496,
           "author": "",
           "downloadCount": 0,
           "createdDate": "2026-10-02 22:29:16",
-          "updatedDate": "2026-10-02 22:24:40"
+          "updatedDate": "2026-10-29 08:50:14"
         },
         {
           "id": "GiaMayPhuTho_677_756_QD-SXD_2026_V3",
@@ -362,11 +332,11 @@
           "tag": "",
           "Path": "GiaMay/GiaMayPhuTho_677_756_QD-SXD_2026_V3.accdb",
           "fileName": "GiaMayPhuTho_677_756_QD-SXD_2026_V3.accdb",
-          "size": 516096,
+          "size": 589824,
           "author": "",
           "downloadCount": 0,
           "createdDate": "2026-10-02 22:29:16",
-          "updatedDate": "2026-10-02 22:26:53"
+          "updatedDate": "2026-10-29 08:50:52"
         },
         {
           "id": "GiaMayPhuTho_677_756_QD-SXD_2026_V4",
@@ -377,11 +347,11 @@
           "tag": "",
           "Path": "GiaMay/GiaMayPhuTho_677_756_QD-SXD_2026_V4.accdb",
           "fileName": "GiaMayPhuTho_677_756_QD-SXD_2026_V4.accdb",
-          "size": 516096,
+          "size": 589824,
           "author": "",
           "downloadCount": 0,
           "createdDate": "2026-10-02 22:29:16",
-          "updatedDate": "2026-10-02 22:28:54"
+          "updatedDate": "2026-10-29 08:51:30"
         }
       ]
     },
@@ -1347,14 +1317,14 @@
       "name": "GiaVatLieu",
       "items": [
         {
-          "id": "GiaVatLieuAnGiang2111_Q\u0110-UBND_2024",
-          "name": "GiaVatLieuAnGiang2111_Q\u0110-UBND_2024",
+          "id": "GiaVatLieuAnGiang2111_QD_UBND_2024",
+          "name": "GiaVatLieuAnGiang2111_QD_UBND_2024",
           "version": "",
           "description": "",
           "province": "",
           "tag": "",
-          "Path": "GiaVatLieu/GiaVatLieuAnGiang2111_Q\u0110-UBND_2024.accdb",
-          "fileName": "GiaVatLieuAnGiang2111_Q\u0110-UBND_2024.accdb",
+          "Path": "GiaVatLieu/GiaVatLieuAnGiang2111_QD_UBND_2024.accdb",
+          "fileName": "GiaVatLieuAnGiang2111_QD_UBND_2024.accdb",
           "size": 757760,
           "author": "",
           "downloadCount": 0,
@@ -1362,14 +1332,14 @@
           "updatedDate": "2026-10-20 12:19:42"
         },
         {
-          "id": "GiaVatLieuCanTho2092_QD-UBND2022",
-          "name": "GiaVatLieuCanTho2092_QD-UBND2022",
+          "id": "GiaVatLieuCanTho2092_QD_UBND2022",
+          "name": "GiaVatLieuCanTho2092_QD_UBND2022",
           "version": "",
           "description": "",
           "province": "",
           "tag": "",
-          "Path": "GiaVatLieu/GiaVatLieuCanTho2092_QD-UBND2022.accdb",
-          "fileName": "GiaVatLieuCanTho2092_QD-UBND2022.accdb",
+          "Path": "GiaVatLieu/GiaVatLieuCanTho2092_QD_UBND2022.accdb",
+          "fileName": "GiaVatLieuCanTho2092_QD_UBND2022.accdb",
           "size": 700416,
           "author": "",
           "downloadCount": 0,
@@ -1377,14 +1347,14 @@
           "updatedDate": "2026-10-20 12:24:41"
         },
         {
-          "id": "GiaVatLieuDaklak395_Q\u0110-UBND_2022",
-          "name": "GiaVatLieuDaklak395_Q\u0110-UBND_2022",
+          "id": "GiaVatLieuDaklak395_QD_UBND_2022",
+          "name": "GiaVatLieuDaklak395_QD_UBND_2022",
           "version": "",
           "description": "",
           "province": "",
           "tag": "",
-          "Path": "GiaVatLieu/GiaVatLieuDaklak395_Q\u0110-UBND_2022.accdb",
-          "fileName": "GiaVatLieuDaklak395_Q\u0110-UBND_2022.accdb",
+          "Path": "GiaVatLieu/GiaVatLieuDaklak395_QD_UBND_2022.accdb",
+          "fileName": "GiaVatLieuDaklak395_QD_UBND_2022.accdb",
           "size": 765952,
           "author": "",
           "downloadCount": 0,
@@ -1392,14 +1362,14 @@
           "updatedDate": "2026-10-20 12:27:51"
         },
         {
-          "id": "GiaVatLieuDaNang35_Q\u0110-UBND_2023",
-          "name": "GiaVatLieuDaNang35_Q\u0110-UBND_2023",
+          "id": "GiaVatLieuDaNang35_QD_UBND_2023",
+          "name": "GiaVatLieuDaNang35_QD_UBND_2023",
           "version": "",
           "description": "",
           "province": "",
           "tag": "",
-          "Path": "GiaVatLieu/GiaVatLieuDaNang35_Q\u0110-UBND_2023.accdb",
-          "fileName": "GiaVatLieuDaNang35_Q\u0110-UBND_2023.accdb",
+          "Path": "GiaVatLieu/GiaVatLieuDaNang35_QD_UBND_2023.accdb",
+          "fileName": "GiaVatLieuDaNang35_QD_UBND_2023.accdb",
           "size": 708608,
           "author": "",
           "downloadCount": 0,
@@ -1407,14 +1377,14 @@
           "updatedDate": "2026-10-20 12:32:39"
         },
         {
-          "id": "GiaVatLieuDongNai875_Q\u0110-UBND_2023&1045_Q\u0110-UBND_2021",
-          "name": "GiaVatLieuDongNai875_Q\u0110-UBND_2023&1045_Q\u0110-UBND_2021",
+          "id": "GiaVatLieuDongNai875_QD_UBND_2023&1045_Q\u0110-UBND_2021",
+          "name": "GiaVatLieuDongNai875_QD_UBND_2023&1045_Q\u0110-UBND_2021",
           "version": "",
           "description": "",
           "province": "",
           "tag": "",
-          "Path": "GiaVatLieu/GiaVatLieuDongNai875_Q\u0110-UBND_2023&1045_Q\u0110-UBND_2021.accdb",
-          "fileName": "GiaVatLieuDongNai875_Q\u0110-UBND_2023&1045_Q\u0110-UBND_2021.accdb",
+          "Path": "GiaVatLieu/GiaVatLieuDongNai875_QD_UBND_2023&1045_Q\u0110-UBND_2021.accdb",
+          "fileName": "GiaVatLieuDongNai875_QD_UBND_2023&1045_Q\u0110-UBND_2021.accdb",
           "size": 704512,
           "author": "",
           "downloadCount": 0,
@@ -1422,14 +1392,14 @@
           "updatedDate": "2026-10-20 12:39:30"
         },
         {
-          "id": "GiaVatLieuGiaLai38_Q\u0110-UBND_2023",
-          "name": "GiaVatLieuGiaLai38_Q\u0110-UBND_2023",
+          "id": "GiaVatLieuGiaLai38_QD_UBND_2023",
+          "name": "GiaVatLieuGiaLai38_QD_UBND_2023",
           "version": "",
           "description": "",
           "province": "",
           "tag": "",
-          "Path": "GiaVatLieu/GiaVatLieuGiaLai38_Q\u0110-UBND_2023.accdb",
-          "fileName": "GiaVatLieuGiaLai38_Q\u0110-UBND_2023.accdb",
+          "Path": "GiaVatLieu/GiaVatLieuGiaLai38_QD_UBND_2023.accdb",
+          "fileName": "GiaVatLieuGiaLai38_QD_UBND_2023.accdb",
           "size": 745472,
           "author": "",
           "downloadCount": 0,
@@ -1437,14 +1407,14 @@
           "updatedDate": "2026-10-20 13:58:00"
         },
         {
-          "id": "GiaVatLieuHaiPhong114_Q\u0110-UBND_2023",
-          "name": "GiaVatLieuHaiPhong114_Q\u0110-UBND_2023",
+          "id": "GiaVatLieuHaiPhong114_QD_UBND_2023",
+          "name": "GiaVatLieuHaiPhong114_QD_UBND_2023",
           "version": "",
           "description": "",
           "province": "",
           "tag": "",
-          "Path": "GiaVatLieu/GiaVatLieuHaiPhong114_Q\u0110-UBND_2023.accdb",
-          "fileName": "GiaVatLieuHaiPhong114_Q\u0110-UBND_2023.accdb",
+          "Path": "GiaVatLieu/GiaVatLieuHaiPhong114_QD_UBND_2023.accdb",
+          "fileName": "GiaVatLieuHaiPhong114_QD_UBND_2023.accdb",
           "size": 712704,
           "author": "",
           "downloadCount": 0,
@@ -1452,14 +1422,14 @@
           "updatedDate": "2026-10-20 14:02:20"
         },
         {
-          "id": "GiaVatLieuHaNoi381; 378; 380; 377_Q\u0110-UBND_2023",
-          "name": "GiaVatLieuHaNoi381; 378; 380; 377_Q\u0110-UBND_2023",
+          "id": "GiaVatLieuHaNoi381; 378; 380; 377_QD_UBND_2023",
+          "name": "GiaVatLieuHaNoi381; 378; 380; 377_QD_UBND_2023",
           "version": "",
           "description": "",
           "province": "",
           "tag": "",
-          "Path": "GiaVatLieu/GiaVatLieuHaNoi381; 378; 380; 377_Q\u0110-UBND_2023.accdb",
-          "fileName": "GiaVatLieuHaNoi381; 378; 380; 377_Q\u0110-UBND_2023.accdb",
+          "Path": "GiaVatLieu/GiaVatLieuHaNoi381; 378; 380; 377_QD_UBND_2023.accdb",
+          "fileName": "GiaVatLieuHaNoi381; 378; 380; 377_QD_UBND_2023.accdb",
           "size": 548864,
           "author": "",
           "downloadCount": 0,
@@ -1467,14 +1437,14 @@
           "updatedDate": "2026-10-20 14:04:51"
         },
         {
-          "id": "GiaVatLieuHCM2966_Q\u0110-UBND_2023",
-          "name": "GiaVatLieuHCM2966_Q\u0110-UBND_2023",
+          "id": "GiaVatLieuHCM2966_QD_UBND_2023",
+          "name": "GiaVatLieuHCM2966_QD_UBND_2023",
           "version": "",
           "description": "",
           "province": "",
           "tag": "",
-          "Path": "GiaVatLieu/GiaVatLieuHCM2966_Q\u0110-UBND_2023.accdb",
-          "fileName": "GiaVatLieuHCM2966_Q\u0110-UBND_2023.accdb",
+          "Path": "GiaVatLieu/GiaVatLieuHCM2966_QD_UBND_2023.accdb",
+          "fileName": "GiaVatLieuHCM2966_QD_UBND_2023.accdb",
           "size": 770048,
           "author": "",
           "downloadCount": 0,
@@ -1482,14 +1452,14 @@
           "updatedDate": "2026-10-20 14:10:03"
         },
         {
-          "id": "GiaVatLieuHue3550_QD-UBND_2021",
-          "name": "GiaVatLieuHue3550_QD-UBND_2021",
+          "id": "GiaVatLieuHue3550_QD_UBND_2021",
+          "name": "GiaVatLieuHue3550_QD_UBND_2021",
           "version": "",
           "description": "",
           "province": "",
           "tag": "",
-          "Path": "GiaVatLieu/GiaVatLieuHue3550_QD-UBND_2021.accdb",
-          "fileName": "GiaVatLieuHue3550_QD-UBND_2021.accdb",
+          "Path": "GiaVatLieu/GiaVatLieuHue3550_QD_UBND_2021.accdb",
+          "fileName": "GiaVatLieuHue3550_QD_UBND_2021.accdb",
           "size": 700416,
           "author": "",
           "downloadCount": 0,
@@ -1497,14 +1467,14 @@
           "updatedDate": "2026-10-20 14:15:41"
         },
         {
-          "id": "GiaVatLieuNgheAn3925_Q\u0110-UBND_2022",
-          "name": "GiaVatLieuNgheAn3925_Q\u0110-UBND_2022",
+          "id": "GiaVatLieuNgheAn3925_QD_UBND_2022",
+          "name": "GiaVatLieuNgheAn3925_QD_UBND_2022",
           "version": "",
           "description": "",
           "province": "",
           "tag": "",
-          "Path": "GiaVatLieu/GiaVatLieuNgheAn3925_Q\u0110-UBND_2022.accdb",
-          "fileName": "GiaVatLieuNgheAn3925_Q\u0110-UBND_2022.accdb",
+          "Path": "GiaVatLieu/GiaVatLieuNgheAn3925_QD_UBND_2022.accdb",
+          "fileName": "GiaVatLieuNgheAn3925_QD_UBND_2022.accdb",
           "size": 708608,
           "author": "",
           "downloadCount": 0,
@@ -1512,14 +1482,14 @@
           "updatedDate": "2026-10-20 14:19:54"
         },
         {
-          "id": "GiaVatLieuNinhBinh955_Q\u0110-UBND_2023",
-          "name": "GiaVatLieuNinhBinh955_Q\u0110-UBND_2023",
+          "id": "GiaVatLieuNinhBinh955_QD_UBND_2023",
+          "name": "GiaVatLieuNinhBinh955_QD_UBND_2023",
           "version": "",
           "description": "",
           "province": "",
           "tag": "",
-          "Path": "GiaVatLieu/GiaVatLieuNinhBinh955_Q\u0110-UBND_2023.accdb",
-          "fileName": "GiaVatLieuNinhBinh955_Q\u0110-UBND_2023.accdb",
+          "Path": "GiaVatLieu/GiaVatLieuNinhBinh955_QD_UBND_2023.accdb",
+          "fileName": "GiaVatLieuNinhBinh955_QD_UBND_2023.accdb",
           "size": 733184,
           "author": "",
           "downloadCount": 0,
@@ -1527,14 +1497,14 @@
           "updatedDate": "2026-10-20 14:22:42"
         },
         {
-          "id": "GiaVatLieuPhuTho 2629_Q\u0110-UBND_2022",
-          "name": "GiaVatLieuPhuTho 2629_Q\u0110-UBND_2022",
+          "id": "GiaVatLieuPhuTho 2629_QD_UBND_2022",
+          "name": "GiaVatLieuPhuTho 2629_QD_UBND_2022",
           "version": "",
           "description": "",
           "province": "",
           "tag": "",
-          "Path": "GiaVatLieu/GiaVatLieuPhuTho 2629_Q\u0110-UBND_2022.accdb",
-          "fileName": "GiaVatLieuPhuTho 2629_Q\u0110-UBND_2022.accdb",
+          "Path": "GiaVatLieu/GiaVatLieuPhuTho 2629_QD_UBND_2022.accdb",
+          "fileName": "GiaVatLieuPhuTho 2629_QD_UBND_2022.accdb",
           "size": 770048,
           "author": "",
           "downloadCount": 0,
@@ -1542,14 +1512,14 @@
           "updatedDate": "2026-10-20 14:25:17"
         },
         {
-          "id": "GiaVatLieuQuangNgai1406_Q\u0110-UBND_2022",
-          "name": "GiaVatLieuQuangNgai1406_Q\u0110-UBND_2022",
+          "id": "GiaVatLieuQuangNgai1406_QD_UBND_2022",
+          "name": "GiaVatLieuQuangNgai1406_QD_UBND_2022",
           "version": "",
           "description": "",
           "province": "",
           "tag": "",
-          "Path": "GiaVatLieu/GiaVatLieuQuangNgai1406_Q\u0110-UBND_2022.accdb",
-          "fileName": "GiaVatLieuQuangNgai1406_Q\u0110-UBND_2022.accdb",
+          "Path": "GiaVatLieu/GiaVatLieuQuangNgai1406_QD_UBND_2022.accdb",
+          "fileName": "GiaVatLieuQuangNgai1406_QD_UBND_2022.accdb",
           "size": 794624,
           "author": "",
           "downloadCount": 0,
@@ -1557,14 +1527,14 @@
           "updatedDate": "2026-10-20 14:32:59"
         },
         {
-          "id": "GiaVatLieuTayNinh3072_Q\u0110-UBND_2020",
-          "name": "GiaVatLieuTayNinh3072_Q\u0110-UBND_2020",
+          "id": "GiaVatLieuTayNinh3072_QD_UBND_2020",
+          "name": "GiaVatLieuTayNinh3072_QD_UBND_2020",
           "version": "",
           "description": "",
           "province": "",
           "tag": "",
-          "Path": "GiaVatLieu/GiaVatLieuTayNinh3072_Q\u0110-UBND_2020.accdb",
-          "fileName": "GiaVatLieuTayNinh3072_Q\u0110-UBND_2020.accdb",
+          "Path": "GiaVatLieu/GiaVatLieuTayNinh3072_QD_UBND_2020.accdb",
+          "fileName": "GiaVatLieuTayNinh3072_QD_UBND_2020.accdb",
           "size": 770048,
           "author": "",
           "downloadCount": 0,
